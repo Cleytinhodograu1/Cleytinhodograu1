@@ -1,6 +1,6 @@
 ## Hi there 👋
 **estou trabalhando**
-
+![image](https://github.com/user-attachments/assets/0550abdf-c3a6-498d-abe4-4f6be3d2d5c9)
 
 <!--
 **Cleytinhodograu1/Cleytinhodograu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
